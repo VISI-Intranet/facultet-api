@@ -1,1 +1,1 @@
-# facultet-api
+Qudaybergenov Zhalgasbay
